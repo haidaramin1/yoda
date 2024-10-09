@@ -1,0 +1,14 @@
+C:\Users\ozgur\AndroidStudioProjects\Gemini\app\src\main\java\com\example\gemini\ui\theme\Type.kt
+C:\Users\ozgur\AndroidStudioProjects\Gemini\app\src\main\java\com\example\gemini\ui\theme\Color.kt
+C:\Users\ozgur\AndroidStudioProjects\Gemini\app\src\main\java\com\example\gemini\GameViewModel.kt
+C:\Users\ozgur\AndroidStudioProjects\Gemini\app\src\main\java\com\example\gemini\MainActivity.kt
+C:\Users\ozgur\AndroidStudioProjects\Gemini\app\src\main\java\com\example\gemini\TimedModeViewModel.kt
+C:\Users\ozgur\AndroidStudioProjects\Gemini\app\src\main\java\com\example\gemini\GameEnums.kt
+C:\Users\ozgur\AndroidStudioProjects\Gemini\app\src\main\java\com\example\gemini\QuestionRepository.kt
+C:\Users\ozgur\AndroidStudioProjects\Gemini\app\src\main\java\com\example\gemini\TimedMode.kt
+C:\Users\ozgur\AndroidStudioProjects\Gemini\app\src\main\java\com\example\gemini\ClassicModeViewModel.kt
+C:\Users\ozgur\AndroidStudioProjects\Gemini\app\src\main\java\com\example\gemini\PostGameScreen.kt
+C:\Users\ozgur\AndroidStudioProjects\Gemini\app\src\main\java\com\example\gemini\TestComposable.kt
+C:\Users\ozgur\AndroidStudioProjects\Gemini\app\src\main\java\com\example\gemini\ClassicMode.kt
+C:\Users\ozgur\AndroidStudioProjects\Gemini\app\src\main\java\com\example\gemini\GameScreen.kt
+C:\Users\ozgur\AndroidStudioProjects\Gemini\app\src\main\java\com\example\gemini\ui\theme\Theme.kt
